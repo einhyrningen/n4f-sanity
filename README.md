@@ -1,11 +1,7 @@
-# Sanity Blogging Content Studio
+# N4F Sanity
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a96e42d4-ca2e-4a87-bf01-3e646aee311f/deploy-status)](https://app.netlify.com/sites/condescending-leavitt-2b9b83/deploys)
 
-Now you can do the following things:
+Here lies Hyperions headless CMS, well actually the frontend (Sanity Studio).
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- Check out the example frontend: [React/Next.js](https://github.com/sanity-io/tutorial-sanity-blog-react-next)
-- [Read the blog post about this template](https://www.sanity.io/blog/build-your-own-blog-with-sanity-and-next-js?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+It is deployed to [studio.n4f.no](https://studio.n4f.no/), served by Netlify.
