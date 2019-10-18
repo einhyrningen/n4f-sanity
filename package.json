@@ -4,10 +4,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "Simen A. W. Olsen <cobraz@cobraz.no>",
-  "license": "UNLICENSED",
+  "author": "Hyperion – Norsk Forbund For Fantastiske Fritidsinteresser",
+  "license": "MIT",
   "scripts": {
     "start": "sanity start",
+    "build": "sanity build",
     "test": "sanity check"
   },
   "keywords": [
