@@ -1,0 +1,23 @@
+{
+  "root": true,
+  "project": {
+    "name": "N4F"
+  },
+  "api": {
+    "projectId": "g4t09ssc",
+    "dataset": "dev"
+  },
+  "plugins": [
+    "@sanity/base",
+    "@sanity/components",
+    "@sanity/default-layout",
+    "@sanity/default-login",
+    "@sanity/desk-tool"
+  ],
+  "parts": [
+    {
+      "name": "part:@sanity/base/schema",
+      "path": "./schemas/schema.js"
+    }
+  ]
+}
